@@ -14,4 +14,4 @@
  * Default image will be sent if specific image path is not set for a friend.
  * If you do not want to text message remove the line specified in the python script.
  * If you do not want to send image remove the line specified in the python script.
- * Put the image path correctly.(start path from drive directory if facing issues)
+ * Put the image path correctly.
